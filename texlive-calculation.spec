@@ -1,6 +1,6 @@
 Name:		texlive-calculation
 Version:	35973
-Release:	1
+Release:	2
 Summary:	Typesetting reasoned calculations, also called calculational proofs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/calculation
