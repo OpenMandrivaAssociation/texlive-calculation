@@ -3,7 +3,7 @@ Version:	35973
 Release:	2
 Summary:	Typesetting reasoned calculations, also called calculational proofs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/calculation
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/calculation
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/calculation.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/calculation.doc.r%{version}.tar.xz
